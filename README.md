@@ -1,6 +1,6 @@
-# ShopVerse E-commerce Analytics Dashboard
+# 🛒 ShopVerse E-commerce Analytics Dashboard
 
-## Project Overview
+## 📌 Project Overview
 ShopVerse is an interactive Power BI E-commerce Analytics Dashboard created to analyze sales performance, customer behavior, product trends, and marketing campaign effectiveness.
 
 The project transforms raw business data into meaningful insights using Power BI, DAX, Power Query, and Excel datasets.
@@ -9,7 +9,7 @@ This dashboard helps businesses make data-driven decisions by tracking KPIs, cus
 
 ---
 
-# Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 - Power BI
 - DAX
 - Power Query
@@ -18,7 +18,7 @@ This dashboard helps businesses make data-driven decisions by tracking KPIs, cus
 
 ---
 
-# Key Features
+# ✨ Key Features
 - Interactive KPI dashboards
 - Dynamic filters and slicers
 - Bookmark navigation
@@ -31,9 +31,9 @@ This dashboard helps businesses make data-driven decisions by tracking KPIs, cus
 
 ---
 
-# Dashboard Pages
+# 📊 Dashboard Pages
 
-## 1. Overview Dashboard
+## 🏠 1. Overview Dashboard
 Provides a summary of:
 - Total Revenue
 - Total Customers
@@ -44,7 +44,7 @@ Provides a summary of:
 
 ---
 
-## 2. Sales Analysis Dashboard
+## 📈 2. Sales Analysis Dashboard
 Analyzes:
 - Sales trends by hour
 - Orders vs quantity
@@ -54,7 +54,7 @@ Analyzes:
 
 ---
 
-## 3. Customers Analysis Dashboard
+## 👥 3. Customers Analysis Dashboard
 Analyzes:
 - Customer acquisition channels
 - Loyalty tier distribution
@@ -64,7 +64,7 @@ Analyzes:
 
 ---
 
-## 4. Products Analysis Dashboard
+## 📦 4. Products Analysis Dashboard
 Analyzes:
 - Product category performance
 - Brand contribution
@@ -74,7 +74,7 @@ Analyzes:
 
 ---
 
-## 5. User Behavior & Campaign Insights Dashboard
+## 📱 5. User Behavior & Campaign Insights Dashboard
 Analyzes:
 - Traffic source engagement
 - User conversion funnel
@@ -84,7 +84,7 @@ Analyzes:
 
 ---
 
-# Main DAX Measures Used
+# 🧮 Main DAX Measures Used
 - Total Revenue
 - Total Orders
 - Total Customers
@@ -98,7 +98,7 @@ Analyzes:
 
 ---
 
-# Key Insights
+# 💡 Key Insights
 - Electronics category generated the highest revenue.
 - Organic and Paid Search channels brought maximum customers.
 - Evening hours showed peak sales activity.
@@ -107,7 +107,7 @@ Analyzes:
 
 ---
 
-# Learning Outcomes
+# 📚 Learning Outcomes
 This project helped improve skills in:
 - Data Cleaning
 - Data Modeling
@@ -118,6 +118,6 @@ This project helped improve skills in:
 
 ---
 
-# Project Author
+# 👩‍💻 Project Author
 ## Kritika Yadav
 Data Analyst Project | Power BI Dashboard Project
